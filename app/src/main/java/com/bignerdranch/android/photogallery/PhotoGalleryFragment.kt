@@ -12,7 +12,6 @@ import com.bignerdranch.android.photogallery.api.FlickrApi
 import com.bignerdranch.android.photogallery.databinding.FragmentPhotoGalleryBinding
 import kotlinx.coroutines.launch
 import retrofit2.Retrofit
-import retrofit2.converter.scalars.ScalarsConverterFactory
 import retrofit2.create
 
 private const val TAG = "PhotoGalleryFragment"
