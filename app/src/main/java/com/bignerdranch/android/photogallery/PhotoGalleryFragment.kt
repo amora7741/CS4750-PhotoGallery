@@ -93,5 +93,4 @@ class PhotoGalleryFragment: Fragment() {
             else -> super.onOptionsItemSelected(item)
         }
     }
-
 }
